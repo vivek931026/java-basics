@@ -6,7 +6,7 @@ public class practice5 {
         int $ = 24;
         System.out.println($);
 
-        //Inaprogram,input 3 numbers:A, B and C. You have to out put the average of these 3 numbers.
+        //Inaprogram,input 3 numbers:A, B and C. You have to out put the average of these 3 numbers
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter three no for avg : ");
         int a = sc.nextInt();
@@ -44,4 +44,5 @@ public class practice5 {
         System.out.println("with GST : "+ with_gst); 
         
     }
+
 }
