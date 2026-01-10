@@ -1,3 +1,5 @@
+// Java practice file
+// Topics: functions, loops, basic logic
 public class func{
     public static void printhellowworls(){
         System.out.println("hello world");
@@ -138,4 +140,5 @@ public class func{
         // decToBin(7); // decimal to binary
         
     }
+
 }
